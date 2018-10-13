@@ -1,0 +1,110 @@
+problemA/Asample01.txt Author03
+problemA/Asample02.txt Author13
+problemA/Asample03.txt Author11
+problemA/Asample04.txt Author07
+problemA/Asample05.txt Author10
+problemA/Asample06.txt Author12
+problemA/Asample07.txt Author08
+problemA/Asample08.txt Author01
+problemA/Asample09.txt Author05
+problemA/Asample10.txt Author04
+problemA/Asample11.txt Author06
+problemA/Asample12.txt Author02
+problemA/Asample13.txt Author09
+
+problemB/Bsample01.txt Author01
+problemB/Bsample02.txt Author09
+problemB/Bsample03.txt Author13
+problemB/Bsample04.txt Author05
+problemB/Bsample05.txt Author10
+problemB/Bsample06.txt Author03
+problemB/Bsample07.txt Author07
+problemB/Bsample08.txt Author08
+problemB/Bsample09.txt Author11
+problemB/Bsample10.txt Author12
+problemB/Bsample11.txt Author02
+problemB/Bsample12.txt Author06
+problemB/Bsample13.txt Author04
+
+problemC/Csample01.txt Author03
+problemC/Csample02.txt Author01
+problemC/Csample03.txt Author01
+problemC/Csample04.txt Author04
+problemC/Csample05.txt Author05
+problemC/Csample06.txt Author02
+problemC/Csample07.txt Author04
+problemC/Csample08.txt Author05
+problemC/Csample09.txt Author02
+
+problemD/Dsample01.txt Author01
+problemD/Dsample02.txt Author02
+problemD/Dsample03.txt __NONE__
+problemD/Dsample04.txt Author03
+
+problemE/Esample01.txt Author03
+problemE/Esample02.txt Author01
+problemE/Esample03.txt __NONE__
+problemE/Esample04.txt Author02
+
+problemF/Fsample01.txt Author01
+problemF/Fsample02.txt Author03
+problemF/Fsample03.txt Author03
+problemF/Fsample04.txt Author01
+problemF/Fsample05.txt Author02
+problemF/Fsample06.txt Author03
+problemF/Fsample07.txt Author01
+problemF/Fsample08.txt Author02
+problemF/Fsample09.txt Author02
+problemF/Fsample10.txt __NONE__
+
+problemG/Gsample01.txt Author02
+problemG/Gsample02.txt Author01
+problemG/Gsample03.txt Author02
+problemG/Gsample04.txt Author01
+
+problemH/Hsample01.txt Author03
+problemH/Hsample02.txt Author01
+problemH/Hsample03.txt Author02
+
+problemI/Isample01.txt Author02
+problemI/Isample02.txt Author01
+problemI/Isample03.txt Author01
+problemI/Isample04.txt Author02
+
+problemJ/Jsample01.txt Author02
+problemJ/Jsample02.txt Author01
+
+problemK/Ksample01.txt Author01
+problemK/Ksample02.txt Author01
+problemK/Ksample03.txt Author02
+problemK/Ksample04.txt Author03
+
+problemL/Lsample01.txt Author02
+problemL/Lsample02.txt Author04
+problemL/Lsample03.txt Author01
+problemL/Lsample04.txt Author03
+
+problemM/Msample01.txt Author06
+problemM/Msample02.txt Author07
+problemM/Msample03.txt Author04
+problemM/Msample04.txt Author03
+problemM/Msample05.txt Author05
+problemM/Msample06.txt Author03
+problemM/Msample07.txt Author02
+problemM/Msample08.txt Author07
+problemM/Msample09.txt Author05
+problemM/Msample10.txt Author08
+problemM/Msample11.txt Author07
+problemM/Msample12.txt Author01
+problemM/Msample13.txt Author05
+problemM/Msample14.txt Author01
+problemM/Msample15.txt Author04
+problemM/Msample16.txt Author08
+problemM/Msample17.txt Author06
+problemM/Msample18.txt Author06
+problemM/Msample19.txt Author02
+problemM/Msample20.txt Author02
+problemM/Msample21.txt Author01
+problemM/Msample22.txt Author08
+problemM/Msample23.txt Author03
+problemM/Msample24.txt Author04
