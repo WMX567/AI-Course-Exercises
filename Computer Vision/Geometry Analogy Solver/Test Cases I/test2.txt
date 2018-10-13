@@ -1,0 +1,29 @@
+A_1
+t1 = triangle('large', 50, 50)
+d1 = dot('small', 10, 10)
+above(d1, t1)
+left_of(d1, t1)
+
+B_1
+t2 = triangle('large', 50, 50)
+
+C_1
+c1 = circle('large', 49, 49)
+d2 = dot('small', 90, 10)
+above(d2, c1)
+left_of(c1, d2)
+
+K1_1
+c2 = circle('large', 49, 49)
+d3 = dot('small', 10, 10)
+above(d3, c2)
+left_of(d3, c2)
+
+K2_1
+c3 = circle('large', 49, 49)
+
+K3_1
+t3 = triangle('large', 50, 50)
+d4 = dot('small', 90, 10)
+above(d4, t3)
+left_of(t3, d4)

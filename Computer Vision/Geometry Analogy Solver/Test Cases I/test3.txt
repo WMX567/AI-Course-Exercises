@@ -1,0 +1,30 @@
+A_1
+s1 = square('small', 50, 50)
+c4 = circle('large', 50, 50)
+inside_of(s1, c4)
+
+B_1
+s2 = square('large', 50, 50)
+c1 = circle('small', 50, 50)
+inside_of(c1, s2)
+
+C_1
+t1 = triangle('small', 50, 50)
+s4 = square('large', 50, 50)
+inside_of(t1, s4)
+
+K1_1
+t2 = triangle('large', 50, 50)
+s3 = square('small', 50, 50)
+inside_of(s3, t2)
+
+K2_1
+t3 = triangle('large', 50, 50)
+c2 = circle('small', 50, 50)
+inside_of(c2, t3)
+
+K3_1
+t4 = triangle('small', 50, 50)
+c3 = circle('large', 50, 50)
+inside_of(t4, c3)
+

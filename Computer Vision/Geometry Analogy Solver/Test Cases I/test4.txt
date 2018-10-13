@@ -1,0 +1,58 @@
+A_1
+r1 = rectangle('large', 30, 50)
+t1 = triangle('medium', 50, 50)
+overlap(t1, r1)
+left_of(r1, t1)
+
+A_2
+scc1 = scc('large', 40, 50, 8)
+t2 = triangle('small', 42, 50) 
+inside_of(t2, scc1)
+left_of(scc1, t2)
+
+A_3
+scc3 = scc('small', 55, 50, 4)
+scc2 = scc('large', 25, 50, 7)
+left_of(scc2, scc3)
+overlap(scc3, scc2)
+
+B_1
+scc4 = scc('large', 40, 50, 8)
+t3 = triangle('small', 40, 50) 
+inside_of(t3, scc4)
+
+C_1
+r3 = rectangle('large', 30, 50)
+r4 = rectangle('medium', 48, 50)
+overlap(r3, r4)
+left_of(r3, r4)
+
+C_2
+scc5 = scc('large', 40, 50, 8)
+s5 = square('small', 42, 50) 
+inside_of(s5, scc5)
+left_of(scc5, s5)
+
+C_3
+scc6 = scc('large', 25, 50, 8)
+r5 = rectangle('small', 50, 50)
+left_of(scc6, r5)
+overlap(r5, scc6)
+
+K1_1
+scc7 = scc('large', 25, 50, 8)
+r6 = rectangle('small', 25, 20)
+above(r6, scc7)
+
+K2_1
+scc8 = scc('large', 40, 50, 8)
+s6 = square('small', 40, 50) 
+inside_of(s6, scc8)
+
+K3_1
+r7 = rectangle('large', 30, 50)
+r8 = rectangle('medium', 30, 50)
+inside_of(r8, r7)
+
+
+
