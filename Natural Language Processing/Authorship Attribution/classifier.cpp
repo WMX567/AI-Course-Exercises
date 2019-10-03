@@ -33,6 +33,7 @@ public:
     // "predicted" is the list of labels predicted by your classifier.
     // "actual" and "predicted" MUST be in one-to-one correspondence.
     // That is, actual[i] and predicted[i] stand for testfile[i].
+	
     void printConfMat(vector<int>actual, vector<int>predicted){
         vector<int> all_labels;
         assert(actual.size() == predicted.size());
