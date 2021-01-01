@@ -1,1 +1,1 @@
-# AI Projects
+# EECS492 Projects
