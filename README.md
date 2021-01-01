@@ -1,1 +1,1 @@
-# EECS492 Projects
+# AI Course Exercises
